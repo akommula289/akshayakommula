@@ -3,7 +3,7 @@
 
 <h3 align="center"> Data Engineer </h3>
 
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw2UhfXyCu04YU2KmnWkx3mY&ust=1741051904179000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjv3P_h7IsDFQAAAAAdAAAAABAE">
+<img align="right" width="400" src="https://camo.githubusercontent.com/02960f6f7f1e92b44808812a46c497809067192b9c2be24d66279c265d51bf5c/68747470733a2f2f6e6577732e7574657861732e6564752f77702d636f6e74656e742f75706c6f6164732f323032312f30312f5443455f426c6f67506f7374496d6167655f526573756d654275696c64696e672d3130302e6a7067">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
